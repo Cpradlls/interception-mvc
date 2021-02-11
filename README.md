@@ -2,14 +2,21 @@
 
 Le Consortium international des journalistes d'investigation (ICIJ), (en anglais « International Consortium of Investigative Journalists ») est une organisation à but non lucratif basée à Washington D.C.
 
-Ce groupement est à l'origine des [Paradise Papers](https://fr.wikipedia.org/wiki/Paradise_Papers), une enquête internationale, révèlent les activités offshores de nombreuses personnalités et ainsi que des multinationales. Impliquant 95 médias partenaires et 381 journalistes, ces révélations sont le fruit d'une enquête d'un an sur 13,4 million documents fuités.
+Ce groupement est à l'origine des [Paradise Papers](https://fr.wikipedia.org/wiki/Paradise_Papers), une enquête internationale, qui a révélé les activités offshores de nombreuses personnalités et ainsi que des multinationales.
 
 Aujourd'hui l'ICIJ se tourne vers vous pour *débugger* une petite plateforme web construite selon la méthode MVC par un développeur senior parti précipitamment en RDC.
 
 ## Votre mission
 
 En utilisant l'identifiant et le mot de passe fourni, faire en sorte que les routes suivantes soient parfaitement fonctionnelles :
-- `index.php?login`
+1. Il semblerait qu'un code commenté au mauvais endroit empêche le bon affichage de la page `index.php?login` .. mais où ?
+2. Zut la page `index.php?backoffice` ne s'affiche pas. Le développeur sénior m'a parlé d'une vue manquante mais je n'ai pas compris. Vous comprenez, vous ?
+3. Le routeur devrait pouvoir gérer `index.php?user-create`, là ce n'est pas le cas, vous pouvez y jeter un oeil svp ?
+4. Normalement la homepage (le contrôleur par défaut) s'affiche en mode dark. C'est à dire fond noir et écriture blanche. Possible de corriger ça svp ?
+
+**Et pour aller plus loin ...**
+
+Flûte, on dirait que la suppression d'un utilisateur n'est pas possible. Pourriez-vous voir pourquoi et réparer ça ? Merci !
 
 ## Modalités pédagogiques
 
