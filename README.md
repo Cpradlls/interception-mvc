@@ -8,7 +8,7 @@ Aujourd'hui l'ICIJ se tourne vers vous pour *débugger* une petite plateforme we
 
 ## Votre mission
 
-En utilisant l'identifiant et le mot de passe fourni, faire en sorte que les routes suivantes soient parfaitement fonctionnelles :
+Pour remplir ces quatre missions, vous utiliserez votre flair ainsi que les identifiants fournis par le client (cf [Ressources](##Ressources))
 1. Il semblerait qu'un code commenté au mauvais endroit empêche le bon affichage de la page `index.php?login` .. mais où ?
 2. Zut la page `index.php?backoffice` ne s'affiche pas. Le développeur sénior m'a parlé d'une vue manquante mais je n'ai pas compris. Vous comprenez, vous ?
 3. Le routeur devrait pouvoir gérer `index.php?user-create`, là ce n'est pas le cas, vous pouvez y jeter un oeil svp ?
