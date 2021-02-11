@@ -16,7 +16,9 @@ En utilisant l'identifiant et le mot de passe fourni, faire en sorte que les rou
 
 **Et pour aller plus loin ...**
 
-Flûte, on dirait que la suppression d'un utilisateur n'est pas possible. Pourriez-vous voir pourquoi et réparer ça ? Merci !
+Flûte, on dirait que la suppression d'un utilisateur n'est pas possible...
+- Pourriez-vous en identifier la raison svp ?
+- Parviendrez-vous à réparer ça ? Merci !
 
 ## Modalités pédagogiques
 
