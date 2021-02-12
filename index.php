@@ -27,6 +27,10 @@
       include("controller/ctrl.logout.php");
       break;
 
+    case "user-create":
+      include("controller/ctrl.user-create.php");
+      break;
+
     case "user-read-all":
       include("controller/ctrl.user-read-all.php");
       break;
