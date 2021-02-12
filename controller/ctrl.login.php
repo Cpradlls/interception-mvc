@@ -10,7 +10,7 @@
   // only if we have registered users
   if($usersArr) {
     include("view/view.html.php");
-    // include("view/view.login.php");
+    include("view/view.login.php");
     $pdo = NULL;
     exit;
   } else {
