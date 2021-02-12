@@ -1,9 +1,9 @@
 <?php
 
-  const DB_HOST    = "";
-  const DB_NAME    = "";
-  const DB_LOGIN   = "";
-  const DB_PASS    = "";
+  const DB_HOST    = "localhost";
+  const DB_NAME    = "id15364827_bd";
+  const DB_LOGIN   = "id15364827_userbd";
+  const DB_PASS    = "3gOzd%o[yV!2K&Rx";
 
   const DB_DRIVER  = "mysql";
   const DB_CHARSET = "utf8mb4";
