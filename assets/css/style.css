@@ -182,8 +182,8 @@ A rough & fake homepage design example.
 */
 
 body.layout-homepage {
-  --colorBackground: #fcfcfc;
-  --colorForeground: #0f0f0f;
+  --colorBackground: #000000;
+  --colorForeground: #ffffff;
   display: grid;
   place-items: center;
   margin: 0;
