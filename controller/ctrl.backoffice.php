@@ -6,4 +6,5 @@
 
   // still here = authenticated
   include("view/view.html.php");
+  include("view/view.backoffice.php"); // On affiche le backoffice ICI
   exit;
